@@ -4,5 +4,32 @@ h1 {
     color: #333;
     text-align: center;
     padding: 10px;
-    border-bottom: 3px solid #ddd;
+    border-bottom: 3px solid #bdbae1;
+}
+footer {
+    background-color: #eaecff;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #333;
+    border-top: 3px solid #bdbae1;
+}
+
+footer p {
+    margin: 3px 0;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    margin-bottom: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #5662a5;
+    font-family: Arial, sans-serif;
 }
